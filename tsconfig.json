@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+
+    "outDir": "./js",
+    "module": "commonjs",
+    "target": "ESNext",
+    "watch": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "./node_modules"
+  ]
+}
